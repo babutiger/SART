@@ -485,3 +485,7 @@ The active LayerABS code path was refactored to reduce import-time side effects,
 - [docs/layerabs_families.md](docs/layerabs_families.md): family guide and refactor layout
 - [docs/code_classification.md](docs/code_classification.md): code classification and directory roles
 - [docs/paper_tables/README.md](docs/paper_tables/README.md): exported paper-table artifacts
+
+## License
+
+This repository is released under the [MIT License](LICENSE).
