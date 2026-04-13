@@ -1,4 +1,5 @@
 .idea/
+.codex
 .codex/
 .DS_Store
 __pycache__/
