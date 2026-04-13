@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "SART: Sign-Absolute Reformulation Theory for Binary Variable Reduction in Neural Network Verification"
+message: "If you use this repository, please cite the associated OOPSLA paper."
+type: software
+authors:
+  - family-names: Xu
+    given-names: Jin
+  - family-names: Zhang
+    given-names: Miaomiao
+  - family-names: Du
+    given-names: Bowen
+doi: 10.1145/3798237
+preferred-citation:
+  type: article
+  title: "SART: Sign-Absolute Reformulation Theory for Binary Variable Reduction in Neural Network Verification"
+  authors:
+    - family-names: Xu
+      given-names: Jin
+    - family-names: Zhang
+      given-names: Miaomiao
+    - family-names: Du
+      given-names: Bowen
+  journal: "Proceedings of the ACM on Programming Languages"
+  year: 2026
+  month: 4
+  doi: 10.1145/3798237

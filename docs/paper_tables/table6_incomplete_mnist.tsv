@@ -1,0 +1,8 @@
+kind	label	script	variant	delta	k_layers	mip_time_limit	verified	timeout	unknown	unsafe	unverified	unresolved	properties	expected_properties	number_sum	time_sum	time_average	time_max	result	log
+run	Incomplete-LayerABS on mnist_5x50	LayerABS_incomplete_layerabs	mnist_5x50	0.018	3	30	0	0	0	0	0	0	0	100						
+run	Incomplete-LayerABS on mnist_5x80	LayerABS_incomplete_layerabs	mnist_5x80	0.019	3	30	0	0	0	0	0	0	0	100						
+run	Incomplete-LayerABS on mnist_6x100	LayerABS_incomplete_layerabs	mnist_6x100	0.019	3	30	0	0	0	0	0	0	0	100						
+run	Incomplete-LayerABS on mnist_9x100	LayerABS_incomplete_layerabs	mnist_9x100	0.018	3	30	0	0	0	0	0	0	0	100						
+run	Incomplete-LayerABS on mnist_10x80	LayerABS_incomplete_layerabs	mnist_10x80	0.015	3	30	0	0	0	0	0	0	0	100						
+run	Incomplete-LayerABS on mnist_9x200	LayerABS_incomplete_layerabs	mnist_9x200	0.018	3	30	0	0	0	0	0	0	0	100						
+aggregate							0	0	0	0	0	0								

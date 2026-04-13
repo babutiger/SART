@@ -1,0 +1,8 @@
+kind	label	script	variant	delta	k_layers	mip_time_limit	verified	timeout	unknown	unsafe	unverified	unresolved	properties	expected_properties	number_sum	time_sum	time_average	time_max	result	log
+run	LayerABS(SART) on mnist_5x50	LayerABS_abstract_sart	mnist_5x50	0.018			0	0	0	0	0	0	0	100						
+run	LayerABS(SART) on mnist_5x80	LayerABS_abstract_sart	mnist_5x80	0.019			0	0	0	0	0	0	0	100						
+run	LayerABS(SART) on mnist_6x100	LayerABS_abstract_sart	mnist_6x100	0.019			0	0	0	0	0	0	0	100						
+run	LayerABS(SART) on mnist_9x100	LayerABS_abstract_sart	mnist_9x100	0.018			0	0	0	0	0	0	0	100						
+run	LayerABS(SART) on mnist_10x80	LayerABS_abstract_sart	mnist_10x80	0.015			0	1	0	0	0	0	1	100	0	180.3601336479187	180.3601336479187	180.3601336479187	Symbolic_Computation/result/original_result/mnist_new_10x80_sym_number_result_delta_0.015_2026-04-12 20:13:59.txt	Symbolic_Computation/result/log/layerabs_complete_family_propagation_log_2026-04-12 20:13:59.txt
+run	LayerABS(SART) on mnist_9x200	LayerABS_abstract_sart	mnist_9x200	0.018			0	0	0	0	0	0	0	100						
+aggregate							0	1	0	0	0	0								

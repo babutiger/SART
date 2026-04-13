@@ -1,0 +1,15 @@
+# Core scientific stack
+numpy
+sympy
+torch
+torchvision
+
+# Alpha-CROWN-style support used by some baseline scripts
+onnx
+onnxruntime
+onnx2pytorch
+packaging
+appdirs
+
+# Optional but required for LayerABS / MILP-based scripts:
+# gurobipy

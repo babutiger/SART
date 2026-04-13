@@ -1,0 +1,12 @@
+name	table	section	coverage	runs	json	tsv
+table2_no_abstraction	Table 2	6.1	partial	20	table2_no_abstraction.json	table2_no_abstraction.tsv
+table3_vnncomp_hard_cases	Table 3	6.2	supported	2	table3_vnncomp_hard_cases.json	table3_vnncomp_hard_cases.tsv
+table4_layerabs_complete	Table 4	6.2	supported	6	table4_layerabs_complete.json	table4_layerabs_complete.tsv
+table5_fallback_frequency	Table 5	6.2	supported	6	table5_fallback_frequency.json	table5_fallback_frequency.tsv
+table6_incomplete_mnist	Table 6	6.3	partial	6	table6_incomplete_mnist.json	table6_incomplete_mnist.tsv
+table7_sart_vs_milp_ablation	Table 7	6.4	supported	12	table7_sart_vs_milp_ablation.json	table7_sart_vs_milp_ablation.tsv
+table8_vnncomp_complete	Table 8	C.1	supported	2	table8_vnncomp_complete.json	table8_vnncomp_complete.tsv
+table9_incomplete_vnncomp_k3	Table 9	C.2	partial	2	table9_incomplete_vnncomp_k3.json	table9_incomplete_vnncomp_k3.tsv
+table10_incomplete_vnncomp_k_sweep	Table 10	C.2	supported	10	table10_incomplete_vnncomp_k_sweep.json	table10_incomplete_vnncomp_k_sweep.tsv
+table11_incomplete_vnncomp_ldsa_k3	Table 11	C.3	unsupported	0	table11_incomplete_vnncomp_ldsa_k3.json	table11_incomplete_vnncomp_ldsa_k3.tsv
+table12_incomplete_vnncomp_ldsa_k_sweep	Table 12	C.3	unsupported	0	table12_incomplete_vnncomp_ldsa_k_sweep.json	table12_incomplete_vnncomp_ldsa_k_sweep.tsv

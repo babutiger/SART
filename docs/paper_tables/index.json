@@ -1,0 +1,103 @@
+{
+  "presets": [
+    {
+      "coverage": "partial",
+      "json": "table2_no_abstraction.json",
+      "name": "table2_no_abstraction",
+      "runs": 20,
+      "section": "6.1",
+      "table": "Table 2",
+      "tsv": "table2_no_abstraction.tsv"
+    },
+    {
+      "coverage": "supported",
+      "json": "table3_vnncomp_hard_cases.json",
+      "name": "table3_vnncomp_hard_cases",
+      "runs": 2,
+      "section": "6.2",
+      "table": "Table 3",
+      "tsv": "table3_vnncomp_hard_cases.tsv"
+    },
+    {
+      "coverage": "supported",
+      "json": "table4_layerabs_complete.json",
+      "name": "table4_layerabs_complete",
+      "runs": 6,
+      "section": "6.2",
+      "table": "Table 4",
+      "tsv": "table4_layerabs_complete.tsv"
+    },
+    {
+      "coverage": "supported",
+      "json": "table5_fallback_frequency.json",
+      "name": "table5_fallback_frequency",
+      "runs": 6,
+      "section": "6.2",
+      "table": "Table 5",
+      "tsv": "table5_fallback_frequency.tsv"
+    },
+    {
+      "coverage": "partial",
+      "json": "table6_incomplete_mnist.json",
+      "name": "table6_incomplete_mnist",
+      "runs": 6,
+      "section": "6.3",
+      "table": "Table 6",
+      "tsv": "table6_incomplete_mnist.tsv"
+    },
+    {
+      "coverage": "supported",
+      "json": "table7_sart_vs_milp_ablation.json",
+      "name": "table7_sart_vs_milp_ablation",
+      "runs": 12,
+      "section": "6.4",
+      "table": "Table 7",
+      "tsv": "table7_sart_vs_milp_ablation.tsv"
+    },
+    {
+      "coverage": "supported",
+      "json": "table8_vnncomp_complete.json",
+      "name": "table8_vnncomp_complete",
+      "runs": 2,
+      "section": "C.1",
+      "table": "Table 8",
+      "tsv": "table8_vnncomp_complete.tsv"
+    },
+    {
+      "coverage": "partial",
+      "json": "table9_incomplete_vnncomp_k3.json",
+      "name": "table9_incomplete_vnncomp_k3",
+      "runs": 2,
+      "section": "C.2",
+      "table": "Table 9",
+      "tsv": "table9_incomplete_vnncomp_k3.tsv"
+    },
+    {
+      "coverage": "supported",
+      "json": "table10_incomplete_vnncomp_k_sweep.json",
+      "name": "table10_incomplete_vnncomp_k_sweep",
+      "runs": 10,
+      "section": "C.2",
+      "table": "Table 10",
+      "tsv": "table10_incomplete_vnncomp_k_sweep.tsv"
+    },
+    {
+      "coverage": "unsupported",
+      "json": "table11_incomplete_vnncomp_ldsa_k3.json",
+      "name": "table11_incomplete_vnncomp_ldsa_k3",
+      "runs": 0,
+      "section": "C.3",
+      "table": "Table 11",
+      "tsv": "table11_incomplete_vnncomp_ldsa_k3.tsv"
+    },
+    {
+      "coverage": "unsupported",
+      "json": "table12_incomplete_vnncomp_ldsa_k_sweep.json",
+      "name": "table12_incomplete_vnncomp_ldsa_k_sweep",
+      "runs": 0,
+      "section": "C.3",
+      "table": "Table 12",
+      "tsv": "table12_incomplete_vnncomp_ldsa_k_sweep.tsv"
+    }
+  ]
+}

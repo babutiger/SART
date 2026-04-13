@@ -1,0 +1,21 @@
+{
+  "aggregate": {
+    "timeout": 0,
+    "unknown": 0,
+    "unresolved": 0,
+    "unsafe": 0,
+    "unverified": 0,
+    "verified": 0
+  },
+  "coverage": "unsupported",
+  "description": "LDSA-mode k sweep for Incomplete-LayerABS on VNN-COMP ERAN.",
+  "name": "table12_incomplete_vnncomp_ldsa_k_sweep",
+  "notes": [
+    "The current public controller path exposes the paper's single-interaction setting, not the LDSA alternation mode used in Table 12.",
+    "The paper's VNN-COMP ERAN 5x100 and 8x100 correspond to the code variants `vnncomp_6x100` and `vnncomp_9x100`, because the code counts the output layer in the architecture label."
+  ],
+  "runs": [],
+  "section": "C.3",
+  "table": "Table 12",
+  "title": "Incomplete-LayerABS LDSA k sweep on VNN-COMP ERAN"
+}

@@ -1,0 +1,4 @@
+kind	label	script	variant	delta	k_layers	mip_time_limit	verified	timeout	unknown	unsafe	unverified	unresolved	properties	expected_properties	number_sum	time_sum	time_average	time_max	result	log
+run	LayerABS(SART) on vnncomp_6x100	LayerABS_abstract_sart	vnncomp_6x100	0.019			0	0	0	0	0	0	0	100						
+run	LayerABS(SART) on vnncomp_9x100	LayerABS_abstract_sart	vnncomp_9x100	0.018			0	0	0	0	0	0	0	100						
+aggregate							0	0	0	0	0	0								

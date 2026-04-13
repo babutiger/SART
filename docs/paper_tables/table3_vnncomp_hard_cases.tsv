@@ -1,0 +1,4 @@
+kind	label	script	variant	delta	k_layers	mip_time_limit	verified	timeout	unknown	unsafe	unverified	unresolved	properties	expected_properties	number_sum	time_sum	time_average	time_max	result	log
+run	PureSART on the Table 3 VNN-COMP hard-case slice	LayerABS_puresart	paper_table3_vnncomp_6x100_hard_cases	0.019			0	0	0	0	0	0	0	7						
+run	Standard MILP on the Table 3 VNN-COMP hard-case slice	LayerABS_standard_milp	paper_table3_vnncomp_6x100_hard_cases	0.019			0	0	0	0	0	0	0	7						
+aggregate							0	0	0	0	0	0								

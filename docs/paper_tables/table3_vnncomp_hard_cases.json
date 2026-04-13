@@ -1,0 +1,66 @@
+{
+  "aggregate": {
+    "timeout": 0,
+    "unknown": 0,
+    "unresolved": 0,
+    "unsafe": 0,
+    "unverified": 0,
+    "verified": 0
+  },
+  "coverage": "supported",
+  "description": "Near-timeout VNN-COMP 5x100 hard-case slice for PureSART vs. Standard MILP.",
+  "name": "table3_vnncomp_hard_cases",
+  "notes": [
+    "This preset encodes the paper's hard-case property IDs 4, 6, 5, 42, 44, 46, and 83 with a 20000s timeout.",
+    "The paper's VNN-COMP ERAN 5x100 and 8x100 correspond to the code variants `vnncomp_6x100` and `vnncomp_9x100`, because the code counts the output layer in the architecture label."
+  ],
+  "runs": [
+    {
+      "delta": 0.019,
+      "expected_properties": 7,
+      "k_layers": null,
+      "label": "PureSART on the Table 3 VNN-COMP hard-case slice",
+      "log": null,
+      "mip_time_limit": null,
+      "number_sum": null,
+      "properties": 0,
+      "result": null,
+      "script": "LayerABS_puresart",
+      "time_average": null,
+      "time_max": null,
+      "time_sum": null,
+      "timeout": 0,
+      "unknown": 0,
+      "unresolved": 0,
+      "unsafe": 0,
+      "unverified": 0,
+      "variant": "paper_table3_vnncomp_6x100_hard_cases",
+      "verified": 0
+    },
+    {
+      "delta": 0.019,
+      "expected_properties": 7,
+      "k_layers": null,
+      "label": "Standard MILP on the Table 3 VNN-COMP hard-case slice",
+      "log": null,
+      "mip_time_limit": null,
+      "number_sum": null,
+      "properties": 0,
+      "result": null,
+      "script": "LayerABS_standard_milp",
+      "time_average": null,
+      "time_max": null,
+      "time_sum": null,
+      "timeout": 0,
+      "unknown": 0,
+      "unresolved": 0,
+      "unsafe": 0,
+      "unverified": 0,
+      "variant": "paper_table3_vnncomp_6x100_hard_cases",
+      "verified": 0
+    }
+  ],
+  "section": "6.2",
+  "table": "Table 3",
+  "title": "VNN-COMP near-timeout hard cases"
+}
